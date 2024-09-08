@@ -307,7 +307,6 @@ footer{
     font-size: 20px;
     padding: 12px;
 }
-
 @media (max-width: 992px) {
     .left-column {
         width: 35%;
@@ -433,4 +432,3 @@ footer{
       height: 200px;
     }
 }
-  
